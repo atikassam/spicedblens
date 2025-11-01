@@ -1,1 +1,1 @@
-# spicedblens
+Moved to https://github.com/aiistic/spicedblens
